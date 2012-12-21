@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="50" height="50" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="tileset-hd" tilewidth="64" tileheight="64">
+  <image source="tileset-hd.png" width="448" height="448"/>
+  <tile id="0">
+   <properties>
+    <property name="isCollidable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="isCollidable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="isCollidable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="isCollidable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="4">
+   <properties>
+    <property name="isCollidable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="5">
+   <properties>
+    <property name="isCollidable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="7">
+   <properties>
+    <property name="isCollidable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="8">
+   <properties>
+    <property name="isCollidable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="9">
+   <properties>
+    <property name="isCollidable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="10">
+   <properties>
+    <property name="isCollidable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="11">
+   <properties>
+    <property name="isCollidable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="12">
+   <properties>
+    <property name="isCollidable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="14">
+   <properties>
+    <property name="isCollidable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="15">
+   <properties>
+    <property name="isCollidable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="16">
+   <properties>
+    <property name="isCollidable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="17">
+   <properties>
+    <property name="isCollidable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="18">
+   <properties>
+    <property name="isCollidable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="19">
+   <properties>
+    <property name="isCollidable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="21">
+   <properties>
+    <property name="isCollidable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="22">
+   <properties>
+    <property name="isCollidable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="23">
+   <properties>
+    <property name="isCollidable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="24">
+   <properties>
+    <property name="isCollidable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="25">
+   <properties>
+    <property name="isCollidable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="26">
+   <properties>
+    <property name="isCollidable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="28">
+   <properties>
+    <property name="isCollidable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="29">
+   <properties>
+    <property name="isCollidable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="30">
+   <properties>
+    <property name="isCollidable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="31">
+   <properties>
+    <property name="isCollidable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="32">
+   <properties>
+    <property name="isCollidable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="33">
+   <properties>
+    <property name="isCollidable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="35">
+   <properties>
+    <property name="isEnemy" value="1"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Layer1" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt118LgjAUh+FjdVEUVAZpgdGF3/8ztoHRGNt0eM7+xO/AAxVe9LZ02hBRAwAAAAAAAAAASd2UK4Nz5o4j8cwBHehg6uiVcVJbR2+8vijD5FlZx8PzeQ3rcVe6mWNK7Vjy3WvoiJ3cHW/6natazBqU1PEv66E7Ro+NslV2GTti7v8GD98xrjapDq7/i2v0/tca7/W67SvsMEeyQaLje67YJBskOnJdjzg69J7uOudTPvutvR8PTcq1sTvM33Zu334V3BEau7ENH15sR+yk7vDdb6yVsuNE7us9B+k9A2CJD6eQFK4=
+  </data>
+ </layer>
+ <objectgroup color="#a40091" name="obj" width="50" height="50">
+  <object name="spawnPoint" x="1306" y="2610" width="30" height="30"/>
+  <object name="coin" x="1773" y="2708"/>
+  <object name="coin" x="1816" y="2708"/>
+  <object name="coin" x="2096" y="2517"/>
+  <object name="coin" x="2138" y="2517"/>
+  <object name="coin" x="2181" y="2517"/>
+  <object name="coin" x="2295" y="2398"/>
+  <object name="coin" x="2349" y="2401"/>
+  <object name="coin" x="2395" y="2398"/>
+  <object name="coin" x="2468" y="2398"/>
+  <object name="coin" x="2532" y="2399"/>
+  <object name="coin" x="2064" y="1869"/>
+  <object name="coin" x="2035" y="1869"/>
+  <object name="coin" x="2401" y="1695"/>
+  <object name="coin" x="2222" y="1802"/>
+  <object name="coin" x="2255" y="1803"/>
+  <object name="coin" x="2585" y="1621"/>
+  <object name="coin" x="1762" y="2014"/>
+  <object name="coin" x="1708" y="2014"/>
+  <object name="coin" x="1762" y="1969"/>
+  <object name="coin" x="1708" y="1967"/>
+  <object name="coin" x="2282" y="2214"/>
+  <object name="coin" x="2336" y="2217"/>
+  <object name="coin" x="2382" y="2214"/>
+  <object name="coin" x="2455" y="2214"/>
+  <object name="coin" x="2519" y="2215"/>
+ </objectgroup>
+</map>
